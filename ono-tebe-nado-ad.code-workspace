@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ono-tebe-nado-main/fonts"
+		},
+		{
+			"path": "../ono-tebe-nado-main/images"
+		},
+		{
+			"path": "../ono-tebe-nado-main/styles"
+		}
+	],
+	"settings": {}
+}
