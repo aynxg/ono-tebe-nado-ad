@@ -1,1 +1,1 @@
-https://github.com/aynxg/ono-tebe-nado
+https://github.com/aynxg/ono-tebe-nado-ad
